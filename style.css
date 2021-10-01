@@ -342,7 +342,7 @@ h3{
 /* About Us Page */
 
 .sub-header{
-    height: 30vh;
+    height: 50vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/LRCLHS.jpg);
     background-position: center;
